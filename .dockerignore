@@ -1,0 +1,13 @@
+# Ignore Virtual Environment
+venv/
+
+# Ignore Python files
+__pycache__/
+*.pyc
+
+# Ignore Git files
+.git/
+.gitignore
+
+# Ignore this file
+.dockerignore
